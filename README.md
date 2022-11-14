@@ -15,4 +15,4 @@ Ferramentas e tecnologias:
 
 Estatísticas do meu Perfil
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipperr&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipperr&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
