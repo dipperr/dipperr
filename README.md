@@ -15,5 +15,5 @@ Ferramentas e tecnologias:
 
 Estatísticas do meu Perfil
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipper&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipperr&layout=compact&langs_count=7&theme=tokyonight"/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipperr&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
