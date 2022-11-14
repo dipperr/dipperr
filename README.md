@@ -1,4 +1,4 @@
-[![MasterHead](https://64.media.tumblr.com/0831f9e3d6ede65959cbae769b148c38/c6afe65bc22cd694-f4/s1280x1920/624b587b5ac096f45404b27388fd9b432b522322.gifv)](https://github.com/dipperr/dipperr)
+[![MasterHead](https://i.pinimg.com/originals/5d/d0/41/5dd0417b6ad769608f2cd6c61219d020.jpg)](https://github.com/dipperr/dipperr)
 
 :v: Olá, me chamo Luiz
 
