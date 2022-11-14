@@ -7,3 +7,7 @@
 :computer: Também cursei Análise e Desenvolvimento de Sistemas na [Unicesumar](https://www.unicesumar.edu.br/home/)
 
 :busts_in_silhouette: Estou procurando colaborar em projetos de Data Science
+
+Já estudei:
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
