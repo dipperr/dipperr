@@ -9,5 +9,6 @@
 :busts_in_silhouette: Estou procurando colaborar em projetos de Data Science
 
 Já estudei:
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+          
           
