@@ -1,6 +1,8 @@
 <img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1f43d5b0-2dc2-4600-a801-2e246e33b5b2/dbj1jb5-0a71cc5b-f09e-45ef-8e57-0cef4f23e8e8.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFmNDNkNWIwLTJkYzItNDYwMC1hODAxLTJlMjQ2ZTMzYjViMlwvZGJqMWpiNS0wYTcxY2M1Yi1mMDllLTQ1ZWYtOGU1Ny0wY2VmNGYyM2U4ZTguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.jZH1njWY85lX_18XSiX6bR9lxCI_zKOanJIJHqt9MKo">
 
 
+
+
 :v: Olá, me chamo Luiz
 
 :man_technologist: Atualmente estou apreendendo machine learning na [Data Science Academy](https://www.datascienceacademy.com.br/start)
