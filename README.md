@@ -1,5 +1,4 @@
-Olá, me chamo Luiz :v:
+:v: Olá, me chamo Luiz
 
-
-Atualmente estou apreendendo machine learning :man_technologist: na [Data Science Academy](https://www.datascienceacademy.com.br/start)
+:man_technologist: Atualmente estou apreendendo machine learning na [Data Science Academy](https://www.datascienceacademy.com.br/start)
 
