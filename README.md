@@ -1,5 +1,3 @@
-[![MasterHead](https://i.pinimg.com/originals/8b/d7/07/8bd70760b3f7f3266d6d3f9b136eb162.jpg)](https://github.com/dipperr/dipperr)
-
 :v: Olá, me chamo Luiz
 
 :man_technologist: Atualmente estou apreendendo machine learning na [Data Science Academy](https://www.datascienceacademy.com.br/start)
