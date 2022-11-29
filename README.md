@@ -4,7 +4,7 @@
 
 :computer: Fiz um curso de [machine learning](https://drive.google.com/file/d/1vI0AVYAyVoO4pOK1zMDkyMYAlL9XhOjq/view?usp=sharing)
 
-:newspaper_roll: Um de [Matemática para machine learning]((https://drive.google.com/file/d/1QBI-bwKYbt5lbMnY5ikDZ3SC4UTmMqju/view?usp=sharing))
+:newspaper_roll: Um de [Matemática para machine learning](https://drive.google.com/file/d/1QBI-bwKYbt5lbMnY5ikDZ3SC4UTmMqju/view?usp=sharing)
 
 :newspaper_roll: E também já fiz mais de 60 cursos na [Alura](https://www.alura.com.br). [Com certificado](https://cursos.alura.com.br/user/lluizsoares96/fullCertificate/b916025d73b5b34c718a32a5cd437432)
 
