@@ -2,7 +2,7 @@
 
 :v: Olá, me chamo Luiz
 
-:computer: Fiz um curso de [machine learning](https://drive.google.com/file/d/1vI0AVYAyVoO4pOK1zMDkyMYAlL9XhOjq/view?usp=sharing)
+:newspaper_roll: Fiz um curso de [machine learning](https://drive.google.com/file/d/1vI0AVYAyVoO4pOK1zMDkyMYAlL9XhOjq/view?usp=sharing)
 
 :newspaper_roll: Um de [Matemática para machine learning](https://drive.google.com/file/d/1QBI-bwKYbt5lbMnY5ikDZ3SC4UTmMqju/view?usp=sharing)
 
