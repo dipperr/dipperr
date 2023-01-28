@@ -1,16 +1,6 @@
 [![MasterHead](https://wallpapercave.com/wp/wp1879942.png)](https://github.com/dipperr/dipperr)
 
-:v: Olá, me chamo Luiz
-
-:newspaper_roll: Fiz um curso de [machine learning](https://drive.google.com/file/d/1vI0AVYAyVoO4pOK1zMDkyMYAlL9XhOjq/view?usp=sharing)
-
-:newspaper_roll: Um de [Matemática para machine learning](https://drive.google.com/file/d/1QBI-bwKYbt5lbMnY5ikDZ3SC4UTmMqju/view?usp=sharing)
-
-:newspaper_roll: E também já fiz mais de 60 cursos na [Alura](https://www.alura.com.br). [Com certificado](https://cursos.alura.com.br/user/lluizsoares96/fullCertificate/b916025d73b5b34c718a32a5cd437432)
-
-:computer: Também cursei Análise e Desenvolvimento de Sistemas na [Unicesumar](https://www.unicesumar.edu.br/home/)
-
-:busts_in_silhouette: Estou procurando colaborar em projetos de Data Science
+:v: Luiz Henrique
 
 Ferramentas e tecnologias:
 
